@@ -32,6 +32,6 @@
  
  脚本运行代码：
  
- wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/master/vpstest.sh && bash vpstest.sh
+ wget -N --no-check-certificate https://raw.githubusercontent.com/wrxx2019/vps/master/vpstest.sh && bash vpstest.sh
 
  ==========================================================
